@@ -53,4 +53,28 @@ As a class we had to solve some logic puzzles.  Some were difficult but they rea
 
 ####  HTML
 
-Finally, we spent a lot of time on HTML and how you can add to the customization using the platform. 
+Finally, we spent a lot of time on HTML and how you can add a lot more customization to your work.  We started off by changing our portfolio from a markdown format to html.
+
+Below is the skeleton of a basic html document.
+
+        <!DOCTYPE html>
+    <html>
+    <head>
+        <title>The Adventures of Bernie</title>
+    </head>
+    <body>
+        <h1>Go to hospital.</h1>
+        <hr>
+        <p>You drive immediately to the hospital.  
+        You tell the nurses about what you saw.
+        The nurses decide to involuntarily commit you to the psych ward.
+        </br>
+        You end up staying there under evaluation for a month.
+        </p>
+        </br></br>
+        Your library book is now over-due.
+        <hr>
+        <p><a href="./index.html">Return to library.</a></p>
+        <p><a href="https://github.com/jcgould48/the-adventures-of-link" target="_blank">See the code that powers this app.</a></p>
+    </body>
+    </html>
