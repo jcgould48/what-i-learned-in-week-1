@@ -7,57 +7,50 @@ The week started off slow as a result of having to setup the computers once agai
 
 **Bash**
 
-We continue to work on our skills through bash 
-* How to start it up
+We continue to work on our skills through bash.  One of the exercises really enforced the skills of creating and moving files
+    
+    At this point I feel very comfortable with the Bash format.
 
-
-* How to navigate directories
-    * It is very important to always know where your at and the appropriate path
-    * This is typically done through the `cd` command
-* How to see the contents of the directory and the actual directory
-    * `ls`: Lists the files 
-        * `-a`: A flag that also includes hidden files
-    * `pwd`: Shows your current working directory
-
-* How to create, remove, move, and copy files and directories
-    * `mkdir`: Creates directories
-    * `touch`: Creates files
-    * `rm`: Removes files or directories
-    * `mv`: Moves files or directories to chosen location
-    * `cp`: Copies files or directories to chosen location
 
 **Git**
 
-Description:
+I have become far more familiar with Git and creating repositories.  Within this week we have built many repositories. 
 
-A system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+Some of the things we focused on
 
-Some of the things I learned about Git:
+* Further practicing cloning, pushing and updating process
 
-* The importance of Git for coding in teams and tracking changes
+* We talked about the process of forking 
 
-* Problems can arise when there are contradictory changes occurring at the same time
+* Through Github we were also able to create a linked story with links and various pathways
 
-* GitHub has become a popular repository for code
+I still think there are a few aspects of Git that I don't feel completely confident about.  Some aspects I am still confused on:
+1. What is the echo command?
+2. What happens if I don't do the steps they mention for a new repository in the right order.  
+3. What does git pull do again?
 
-* To properly upload a new file to an individual's GitHub repository they must use these commands in Bash
-    * `git add [file name or .]`
-    * `git commit -m "description of changes"`
-    * `git push`
-    * `git status`: will tell you the status of the file in this process 
+**Visual Studio Code**
 
-**markdown**
+We focused a lot of attention on visual studio code.  One of the lessons was better understanding shortcuts for cursor movement and editing text.
 
-Description:
+#### Cursor Movement
 
-A lightweight markup language that you can use to add formatting elements to plaintext text documents. 
+* Command-left arrow - move cursor to beginning of line
+* Command-right arrow - move cursor to end of line
+* Option-left arrow - move cursor one word to the left
+* Option-right arrow - move cursor one word to the right
 
-Some of the things I learned about markdown:
 
-*  It is simple but extremely versatile and can used for a wide variety of end products
+#### Selection
 
-*  Language intuitive for text formatting
-    * ##: Makes text more prominent like a title
-    * Surrounded with **: Makes text **bold**
-    * Surround with *: Makes text *italicized*
-    * "*": Adds bullet points 
+* Shift + any cursor movement - expand selection by that amount
+* Option-click - place a multi-cursor
+* Command-D - Additionally select next instance of current selection.
+* Command-Shift-L - Select all instances of current selection.
+
+#### Logic Puzzles
+As a class we had to solve some logic puzzles.  Some were difficult but they really engaged us to think.  Over all I enjoyed trying to solve them and think in a way that is not common on a day to day basis.
+
+####  HTML
+
+Finally, we spent a lot of time on HTML and how you can add to the customization using the platform. 
